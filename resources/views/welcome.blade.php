@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Shanavas Changed again
+                    Opera
                 </div>
 
                 <div class="links">
